@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//127.0.0.1/wordpress/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>http://127.0.0.1/wordpress/post-sitemap.xml</loc>
+		<lastmod>2021-06-24T07:08:10+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://127.0.0.1/wordpress/page-sitemap.xml</loc>
+		<lastmod>2021-06-24T09:32:24+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://127.0.0.1/wordpress/pgc_simply_gallery-sitemap.xml</loc>
+		<lastmod>2021-06-23T08:54:58+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://127.0.0.1/wordpress/category-sitemap.xml</loc>
+		<lastmod>2021-06-24T07:08:10+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
