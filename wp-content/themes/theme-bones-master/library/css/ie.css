@@ -296,7 +296,6 @@ NAVIGATION STYLES
   */
 }
 .nav li a:hover, .nav li a:focus {
-  color: #fff;
   text-decoration: underline;
 }
 .nav li ul.sub-menu,

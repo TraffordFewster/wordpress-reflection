@@ -1454,6 +1454,7 @@ style a page via class
   background-color: #97e283;
   border-radius: 4px;
   margin: 0 8px 0 0;
+  color: #323944;
 }
 #headerNav #menu-mainnav {
   height: 0rem;
@@ -1471,11 +1472,11 @@ style a page via class
   width: 3rem;
   height: 3rem;
   font-size: 2.5rem;
-  color: #eaedf2;
+  color: #323944;
 }
 #headerNav .headerDropdownL:hover, #headerNav .headerDropdownL:focus {
   cursor: pointer;
-  color: #fff;
+  color: #5c6b80;
 }
 
 /*********************
@@ -1561,7 +1562,7 @@ HEADER STYLES
   margin: 0.75em 0;
 }
 #logo a {
-  color: #eaedf2;
+  color: #323944;
 }
 
 /*********************
@@ -1593,7 +1594,7 @@ and more scalable.
 }
 .nav li a {
   display: inline-block;
-  color: #fff;
+  color: #323944;
   text-decoration: none;
   padding: 0.75em;
   /*
@@ -2170,7 +2171,6 @@ you can add resource intensive styles.
     */
   }
   .nav li a:hover, .nav li a:focus {
-    color: #fff;
     text-decoration: underline;
   }
   .nav li ul.sub-menu,
